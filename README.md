@@ -2,5 +2,5 @@
 Perkiraan cuaca berdasarkan data ter update dari BMKG
 # BMKG
 https://data.bmkg.go.id/
-# api json
+# Api JSON
 https://github.com/renomureza/cuaca-gempa-rest-api
